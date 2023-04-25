@@ -1,0 +1,24 @@
+{
+  "name": "@naveen521kk/ui-components",
+  "version": "0.1.0",
+  "description": "Web/React components to use in my websites",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naveen521kk/ui-components.git"
+  },
+  "keywords": [
+    "react",
+    "ui-components",
+    "components"
+  ],
+  "author": "Naveen M K",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/naveen521kk/ui-components/issues"
+  },
+  "homepage": "https://github.com/naveen521kk/ui-components#readme"
+}
