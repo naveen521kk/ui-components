@@ -1,12 +1,13 @@
 {
   "name": "@naveen521kk/ui-components",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Web/React components to use in my websites",
   "scripts": {
     "rollup": "rollup -c",
     "test": "npm run test:stylelint && npm run test:jest",
     "test:stylelint": "stylelint \"src/**/*.scss\"",
-    "test:jest": "jest --coverage"
+    "test:jest": "jest --coverage",
+    "publish": "npm run rollup"
   },
   "repository": {
     "type": "git",
@@ -42,6 +43,7 @@
     "@types/node": "^18.16.1",
     "@types/react": "^18.2.6",
     "@types/react-dom": "^18.2.4",
+    "autoprefixer": "^10.4.14",
     "babel-jest": "^29.5.0",
     "identity-obj-proxy": "^3.0.0",
     "jest": "^29.5.0",
