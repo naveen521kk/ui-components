@@ -24,4 +24,4 @@ const ScrollProgressBar = () => {
     );
 };
 
-export {ScrollProgressBar};
+export default ScrollProgressBar;
