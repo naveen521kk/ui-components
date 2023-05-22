@@ -1,7 +1,7 @@
-@import "../../styles/variables";
+// @import "../../styles/variables";
 
-.scrollProgressBar {
-    background: var(--#{$prefix}body-color);
+.scroll-progress-bar {
+    // background: var(--#{$prefix}body-color);
     height: 4px;
     left: 0px;
     position: fixed;
