@@ -1,6 +1,6 @@
 {
   "name": "@naveen521kk/ui-components",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Web/React components to use in my websites",
   "scripts": {
     "rollup": "rollup -c",
