@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/naveen521kk/ui-components#readme",
   "dependencies": {
+    "@react-spring/web": "^9.7.2",
     "classnames": "^2.3.2",
     "modern-normalize": "^1.1.0",
     "react": "^18",
