@@ -1,3 +1,3 @@
-import ScrollProgressBar from "./ui/components/scroll-progress-bar";
+import ScrollProgressBar from "./components/scroll-progress-bar";
 
 export { ScrollProgressBar };
