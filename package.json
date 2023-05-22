@@ -1,6 +1,6 @@
 {
   "name": "@naveen521kk/ui-components",
-  "version": "0.1.0b1",
+  "version": "0.1.1",
   "description": "Web/React components to use in my websites",
   "main": "src/index.js",
   "scripts": {
@@ -25,15 +25,15 @@
   "dependencies": {
     "@react-spring/web": "^9.7.2",
     "classnames": "^2.3.2",
-    "modern-normalize": "^1.1.0",
-    "react": "^18",
-    "react-dom": "^18",
-    "sass": "^1.62.0"
+    "modern-normalize": "^1.1.0"
   },
   "devDependencies": {
     "@types/node": "^18.16.1",
-    "@types/react": "^18.2.0",
+    "@types/react": "^18.2.6",
+    "react": "^18.2.0",
     "stylelint": "^15.6.0",
-    "stylelint-config-standard-scss": "^9.0.0"
+    "stylelint-config-standard-scss": "^9.0.0",
+    "typescript": "^5.0.4",
+    "sass": "^1.62.0"
   }
 }
